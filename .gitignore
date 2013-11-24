@@ -1,0 +1,15 @@
+.DS_Store
+*.swp
+*~.nib
+*~.xib
+
+/build/
+
+/*.xcodeproj/*
+!/*.xcodeproj/project.pbxproj
+!/*.xcodeproj/xcshareddata/
+
+xcuserdata/
+
+
+
